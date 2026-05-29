@@ -1,5 +1,19 @@
 # NT8 AutoLogin V1.0 Manual
 
+## Quick Download
+
+If you want to use the tool directly without building the source code, download:
+
+[`downloads/NT8-AutoLogin-V1.0.zip`](downloads/NT8-AutoLogin-V1.0.zip)
+
+The zip package currently contains:
+
+- `NT8 AutoLogin.exe`
+- `NT8 AutoLogin.exe.config`
+- `NT8 AutoLogin.pdb`
+
+After extraction, end users can launch `NT8 AutoLogin.exe` directly.
+
 ## Contents
 
 1. Project Overview
